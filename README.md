@@ -1,6 +1,6 @@
 
 
-# 🌍 멋쟁이 감자처럼
+# 🍟 멋쟁이 감자처럼
 ![github 상단 이미지](<https://github.com/24-1-LikePotato/.github/blob/main/image/image.png>)
 
 ## 🌟 파트별 정보
