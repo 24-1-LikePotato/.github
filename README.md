@@ -1,4 +1,4 @@
-![github 상단 이미지](https://user-images.githubusercontent.com/79556112/221351540-1fac0736-f4b6-43a1-9ccd-37ce7c0038fd.png)
+![github 상단 이미지](https://github.com/24-1-LikePotato/.github/image/image.png)
 
 # 🌍 모든건 당신의 손 끝에서.
 
