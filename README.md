@@ -1,4 +1,7 @@
-# [멋쟁이 감자처럼](https://github.com/24-1-LikePotato)
+![github 상단 이미지](https://user-images.githubusercontent.com/79556112/221351540-1fac0736-f4b6-43a1-9ccd-37ce7c0038fd.png)
+
+# 🌍 모든건 당신의 손 끝에서.
+
 ## 🌟 파트별 정보
 
 ### 🚀 Frontend
