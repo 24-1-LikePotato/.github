@@ -1,5 +1,4 @@
-![github 상단 이미지](https://github.com/24-1-LikePotato/raw/main/images/image.png
-)
+![github 상단 이미지](.github\image\image.png)
 
 # 🌍 모든건 당신의 손 끝에서.
 
