@@ -1,3 +1,4 @@
+# [멋쟁이 감자처럼](https://github.com/24-1-LikePotato)
 ## 🌟 파트별 정보
 
 ### 🚀 Frontend
