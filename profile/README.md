@@ -1,13 +1,10 @@
 
-![github 상단 이미지](<https://github.com/24-1-LikePotato/.github/blob/main/image/image.png>)
-
-&nbsp; <!-- HTML 엔터를 위한 공백 추가 -->
-&nbsp; <!-- HTML 엔터를 위한 공백 추가 -->
-
 # 🍟 멋쟁이 감자처럼
 
 &nbsp; <!-- HTML 엔터를 위한 공백 추가 -->
-
+![github 상단 이미지](<https://github.com/24-1-LikePotato/.github/blob/main/image/image.png>)
+&nbsp; <!-- HTML 엔터를 위한 공백 추가 -->
+&nbsp; <!-- HTML 엔터를 위한 공백 추가 -->
 ## 🌟 멋쟁이사자처럼 12기 '멋쟁이 감자처럼'입니다.
 집밥 코인은 식재료의 가격을 알려주고, 식재료를 추천하며 식재료에 대한 부가 정보를 제공합니다.  
 
